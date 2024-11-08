@@ -1,0 +1,9 @@
+package i.vk52.beans.classes;
+
+public class Login {
+
+	public Login() {
+		System.out.println("Login::Instantiation successful...");
+	}
+	
+}

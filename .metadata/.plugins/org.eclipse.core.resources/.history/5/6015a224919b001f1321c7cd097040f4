@@ -1,0 +1,9 @@
+package i.vk52.beans.classes;
+
+public class CreditCard {
+
+	public CreditCard() {
+		System.out.println("CreditCard::Instantiation Successful");
+	}
+	
+}

@@ -1,0 +1,12 @@
+package i.vk52.myapps;
+
+import java.util.Scanner;
+
+public class MyApp1 {
+	public static void main(String[] args) {
+		String emailId,pwd;
+		Scanner scan = new Scanner(System.in);
+		System.out.print("Enter email Id ::\t");
+		emailId = scan.next();
+	}
+}

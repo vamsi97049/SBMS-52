@@ -1,0 +1,8 @@
+package i.vk52.myapps;
+
+public class MyApp1 {
+	public static void main(String[] args) {
+		String emailId,pwd;
+		
+	}
+}

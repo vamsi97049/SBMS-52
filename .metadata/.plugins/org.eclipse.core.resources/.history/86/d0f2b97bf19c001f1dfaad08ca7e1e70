@@ -1,0 +1,16 @@
+package i.vk52.userprograms;
+
+public class UserLoginClass {
+	public static void main(String[] args) {
+		BookStore bookStore1 = BookST.getInstace();
+		BookStore bookStore2 = BookST.getInstace();
+		BookStore bookStore3 = BookST.getInstace();
+		BookStore bookStore4 = BookST.getInstace();
+		BookStore bookStore5 = BookST.getInstace();
+		System.out.println(bookStore1.hashCode());
+		System.out.println(bookStore2.hashCode());
+		System.out.println(bookStore3.hashCode());
+		System.out.println(bookStore4.hashCode());
+		System.out.println(bookStore5.hashCode());
+	}
+}

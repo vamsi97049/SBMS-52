@@ -1,0 +1,9 @@
+package i.vk52.beans.classes;
+
+public class Car {
+
+	public Car() {
+		System.out.println("Car:: Instantiation Successful");
+	}
+	
+}

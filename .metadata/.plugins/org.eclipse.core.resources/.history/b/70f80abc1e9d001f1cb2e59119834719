@@ -1,0 +1,6 @@
+package i.vk52.userprograms;
+
+public class BillPughDedsignPattern {
+	// Two static methods one is Helper Method
+	// second one static method to share that instance.
+}

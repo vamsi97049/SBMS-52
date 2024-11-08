@@ -1,0 +1,7 @@
+package i.vk52.beans.classes;
+
+public class UserService {
+	public UserService() {
+		// TODO Auto-generated constructor stub
+	}
+}

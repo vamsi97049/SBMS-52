@@ -1,0 +1,14 @@
+package i.vk52.userprograms;
+
+public class BookST {
+    // The single instance of the BookStore class
+    private static final BookStore bookStore = new BookStore();
+    
+    // Private constructor to prevent instantiation
+    private BookST() {}
+    
+    // Public static method to get the single instance of BookStore
+    public static BookStore getInstance() {
+        return bookStore;
+    }
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="i.vk52.beans.DieselEngine"/>
+    <fullyQualifiedTypeName name="i.vk52.beans.classes.Employee"/>
+    <fullyQualifiedTypeName name="com.sun.org.apache.xml.internal.security.utils.Base64"/>
+    <fullyQualifiedTypeName name="java.util.Base64"/>
+    <fullyQualifiedTypeName name="i.vk52.beans.classes.PasswordProtector"/>
+    <fullyQualifiedTypeName name="i.vk52.beans.classes.Login"/>
+    <fullyQualifiedTypeName name="i.vk52.beans.classes.Engine"/>
+    <fullyQualifiedTypeName name="i.vk52.beans.classes.Ipayment"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="i.vk52.userprograms.BookStore"/>
+    <fullyQualifiedTypeName name="i.vk52.userprograms.BookST"/>
+    <fullyQualifiedTypeName name="i.vk52.userprograms.BillPughDedsignPattern"/>
+</qualifiedTypeNameHistroy>

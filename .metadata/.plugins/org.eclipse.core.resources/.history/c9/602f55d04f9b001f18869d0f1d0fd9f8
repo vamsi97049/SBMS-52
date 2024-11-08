@@ -1,0 +1,15 @@
+package i.vk52.beans.classes;
+
+import java.util.Base64;
+import java.util.Base64.Decoder;
+
+public class PwdService {
+
+	public PwdService() {
+		System.out.println("PwdService::Default Constructor Called");
+		
+		Decoder decoder = Base64.getDecoder();
+		
+	}
+	
+}

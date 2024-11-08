@@ -1,0 +1,17 @@
+package i.vk52.beans.classes;
+
+public class  {
+	private Employee emp;
+	
+	public UserLogicClass() {
+		System.out.println();
+	}
+
+	public void setEmp(Employee emp) {
+		this.emp = emp;
+	}
+	
+	public void saveEmployee() {
+		
+	}
+}

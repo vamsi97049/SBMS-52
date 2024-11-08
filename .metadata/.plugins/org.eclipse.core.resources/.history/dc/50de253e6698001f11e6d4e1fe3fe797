@@ -1,0 +1,9 @@
+package i.vk52.myapps;
+
+import i.vk52.beans.classes.Login;
+
+public class App1 {
+	public static void main(String[] args) {
+		
+	}
+}

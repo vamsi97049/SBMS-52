@@ -1,0 +1,9 @@
+package i.vk52.myapps;
+
+import org.springframework.context.ApplicationContext;
+
+public class MyApp1 {
+	public static void main(String[] args) {
+		ApplicationContext
+	}
+}
