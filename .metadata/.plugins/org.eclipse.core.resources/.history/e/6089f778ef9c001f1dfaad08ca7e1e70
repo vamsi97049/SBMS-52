@@ -1,9 +1,0 @@
-package i.vk52.userprograms;
-
-public class BookStore {
-
-	public BookStore() {
-		System.out.println("BookStore:: 0-Param Constructor");
-	}
-	
-}

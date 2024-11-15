@@ -3,4 +3,11 @@
   <groupId>i.vk52</groupId>
   <artifactId>08_AutoWiringDemo</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+  	<dependency>
+	    <groupId>org.springframework</groupId>
+	    <artifactId>spring-context</artifactId>
+	    <version>6.1.14</version>
+	</dependency>
+  </dependencies>
 </project>

@@ -2,4 +2,19 @@
 <section name="Workbench">
 	<item key="hasShownOverlayPopupBefore" value="true"/>
 	<item key="replaceBarOpen" value="false"/>
+	<list key="searchhistory">
+		<item value="poin"/>
+		<item value="book&quot;"/>
+		<item value="&quot;book&quot;"/>
+		<item value="book"/>
+		<item value="impl"/>
+		<item value="brm"/>
+		<item value="br,"/>
+		<item value="update(sql"/>
+		<item value="update"/>
+		<item value="Conif"/>
+		<item value="Conifigur"/>
+		<item value="Conifigurable"/>
+		<item value="JdbcTemplate"/>
+	</list>
 </section>

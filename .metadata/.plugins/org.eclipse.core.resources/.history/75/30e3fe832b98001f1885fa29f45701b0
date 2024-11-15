@@ -1,7 +1,0 @@
-package i.vk52.myapps;
-
-public class MyApp {
-	public static void main(String[] args) {
-		
-	}
-}

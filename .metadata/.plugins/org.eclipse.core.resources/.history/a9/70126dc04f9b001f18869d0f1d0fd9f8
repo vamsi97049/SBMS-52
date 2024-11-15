@@ -1,9 +1,0 @@
-package i.vk52.beans.classes;
-
-public class PwdService {
-
-	public PwdService() {
-		System.out.println("PwdService::Default Constructor Called");
-	}
-	
-}

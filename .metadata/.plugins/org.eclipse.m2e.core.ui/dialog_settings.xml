@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="D:\GLOBAL_STS__IDE__\Workspace_01\09_Restaurant_LooslyCoupled_DependencyInjection"/>
 			<item value="D:\GLOBAL_STS__IDE__\Workspace_01\06_CI_EngCar_Demo_2\src\main\resources"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -49,6 +50,13 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="13_DependsOnConcept"/>
+			<item value="13_BookStore"/>
+			<item value="12_BookStore"/>
+			<item value="11_Temp_Pool"/>
+			<item value="10_Autowiring_DI_UserPwdEmail"/>
+			<item value="08_AutoWiringDemo"/>
+			<item value="AutowiringDemo"/>
 			<item value="Restaurant_LooslyCoupled_DependencyInjection"/>
 		</list>
 		<list key="projectNameTemplate">

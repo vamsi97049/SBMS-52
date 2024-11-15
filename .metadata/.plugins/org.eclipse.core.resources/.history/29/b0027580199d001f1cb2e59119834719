@@ -1,8 +1,0 @@
-package i.vk52.userprograms;
-
-public class LazyInitialization {
-	private static final BookStore bookStore = null;
-	
-	// private constructor
-	private LazyInitialization() {}
-}

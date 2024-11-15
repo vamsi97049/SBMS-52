@@ -1,7 +1,0 @@
-package i.vk52.userprograms;
-
-public class BookStore {
-	public static void main(String[] args) {
-		System.out.println("BookStore");
-	}
-}
